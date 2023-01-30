@@ -2,7 +2,7 @@ header {
     background-image: url(../assets/design1_image1.jpg);
     height: 400px;
     width: 100%;
-    background-position: 15% 30%;
+    background-position: 15% 35%;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -39,7 +39,7 @@ header h1{
 #logo{
     width: 170px;
     position: absolute;
-    top: 380px;
+    top: 323px;
     left: 1100px;
 }
 
@@ -47,14 +47,14 @@ header h1{
     width: 15%;
     height: 15%;
     position: absolute;
-    top: 540px;
+    top: 500px;
     border-radius: 5%;
 }
 
 article{
     position: absolute;
     width: 700px;
-    top: 510px; left: 370px;  
+    top: 480px; left: 370px;  
 }
 
 footer {
