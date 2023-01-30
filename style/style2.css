@@ -1,4 +1,4 @@
-header {
+.conteiner {
     background-image: url(../assets/design1_image2.jpg);
     height: 400px;
     width: 100%;
@@ -6,12 +6,12 @@ header {
     background-position:center;
     background-repeat: no-repeat;
     background-size: cover;
-    margin-top: 40px;
+    margin-top: 0px;
 }
 
 nav{
     position: absolute;
-    top: 30px; left: 950px;
+    top: 55px; left: 1000px;
 }
 
 nav a{
