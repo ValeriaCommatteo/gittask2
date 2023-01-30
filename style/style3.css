@@ -1,0 +1,90 @@
+body {
+    font-family: Brush Script MT;
+}
+
+header {
+    background-image: url(../assets/hockey.jpeg);
+    height: 400px;
+    width: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 1px solid black;
+}
+
+ nav a {
+    font-family: sans-serif;
+    background-color: red;
+    font-size: 15px;
+    padding: 5px 10px;
+    margin: 5px;
+    position: relative;
+    top: 250px; left: 5px;
+    color: white;
+    border: 1px solid black;
+    border-radius: 8px;
+    box-shadow: 2px 2px 0 0 rgb(0, 0, 0);
+}
+
+nav a {
+    transition-duration: 0.4s;
+}
+  
+nav a:hover {
+    background-color: #920101;
+    color: white;
+}
+
+li {
+    list-style-type: square;
+    color: black;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+h2 {
+    background-color: rgb(255, 3, 3);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 1px;
+    width: 100%;
+}
+
+header h1{
+    text-align:right;
+    text-shadow: 5px 1px 1px rgba(0, 0, 0, 0.405);
+    font-size: 35px;
+    margin: 5px 20px 0px 0px;
+}
+
+#logo{
+    width: 180px;
+    position: absolute;
+    top: 470px; left: 1100px;
+}
+
+#foto {
+    width: 15%;
+    height: 15%;
+    position: absolute;
+    top: 500px;
+    border-radius: 5%;
+}
+
+.subrayado {
+    text-decoration: underline;
+}
+
+article {
+    position: absolute;
+    width: 700px;
+    top: 470px; left: 370px;
+}
+
+footer {
+    position: relative;
+    top: 350px; left:60px;
+}
